@@ -1,0 +1,2 @@
+# No third-party dependencies are required for this project.
+# The checker uses only Python's standard library.
